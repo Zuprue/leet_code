@@ -1,2 +1,2 @@
 # leet_code
-A high light of my leet code solutions
+A highlight of my leet code solutions
